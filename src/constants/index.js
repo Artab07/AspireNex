@@ -30,6 +30,7 @@ import {
   tripguide,
   threejs,
   breeze,
+  myPhoto,
 } from "../assets";
 
 export const navLinks = [

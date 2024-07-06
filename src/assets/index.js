@@ -34,6 +34,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import breeze from "./breeze.png";
+import myPhoto from "./myPhoto.jpg";
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   jobit,
   tripguide,
   breeze,
+  myPhoto,
 };

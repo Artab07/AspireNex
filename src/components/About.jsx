@@ -8,7 +8,7 @@ import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 
 // Import your photo
-import myPhoto from "/Users/ARTAB MAJI/OneDrive/Desktop/Accenture_Web/src/assets/myPhoto.jpg";
+import myPhoto from "../assets/myPhoto.jpg";
 
 
 const About = () => {
